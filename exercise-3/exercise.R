@@ -16,7 +16,7 @@ MarbleGame <- function(a) {
   if (right.marble == a) {
     return('You win')
   } else {
-    return('You lost')
+    return('You lose')
   }
 }
 
